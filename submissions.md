@@ -12,4 +12,6 @@ It is not required that an accepted paper be presented at the conference but fro
 
 The deadline for submissions is January 10, 2023. We anticipate final decisions by May 2023.
 
-A link to the submission website will be posted here as soon as it becomes available and no later than December 1, 2022.
+<a href="https://ef.msp.org/submit_new.php?j=lucant"><b>Click here to begin the submission process</b></a> via EditFlow.
+
+If you run into any technical problems during the submission process, please contact <a href="mailto:editflow@msp.org">ediflow@msp.org</a> (be sure to mention LuCaNT in your email).  All other queries should be directed to <a href="mailto:editors@lucant.org">editors@lucant.org</a>. 
