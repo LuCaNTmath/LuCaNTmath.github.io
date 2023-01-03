@@ -10,7 +10,7 @@ permalink: /submissions/
 
 <p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at the first <a href="https://icerm.brown.edu/events/sc-23-lucant/">LuCaNT conference</a>, which will take place at ICERM, July 10-14, 2023.</p>
 
-<p>The deadline for submissions is <b>January 10, 2023</b>. We anticipate final decisions by May 2023.</p>
+<p>The deadline for submissions is <s>January 10, 2023</s> <b>January 22, 2023</b> <a href="https://time.is/Anywhere_on_Earth">anywhere on earth</a> (UTC -12). We anticipate final decisions by May 2023.</p>
 
 <p><a href="https://ef.msp.org/submit_new.php?j=lucant"><b>Click here to begin the submission process</b></a> via EditFlow.</p>
 
