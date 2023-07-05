@@ -18,6 +18,6 @@ permalink: /submissions/
 - <a href="https://lucant.org/papers/230122-Panny.pdf"><i>Deuring for the people: Supersingular elliptic curves with prescribed endomorphism ring in general characteristic</i></a>, Jonathan Komada Eriksen,  Lorenz Panny, Jana Sotáková, Mattia Veroni.
 - <a href="https://lucant.org/papers/230123-Farmer.pdf"><i>The landscape of L-functions: degree 3 and conductor 1</i></a>, David W. Farmer, Sally Koutsoliotas, Stefan Lemurell, David P. Roberts.
 - <a href="https://lucant.org/papers/221018-Kedlaya.pdf"><i>The relative class number one problem for function fields, III</i></a>, Kiran S. Kedlaya.
-- <a href="https://lucant.org/papers/221111-Mayle.pdf"><i>Serre Curves Relative to Obstructions Modulo 2</i></a>, Jacob Mayle, Rakvi.
+- <a href="https://lucant.org/papers/221111-Mayle.pdf"><i>Serre curves relative to obstructions modulo 2</i></a>, Jacob Mayle, Rakvi.
 
 <p>Queries should be directed to <a href="mailto:editors@lucant.org">editors@lucant.org</a>.</p>
