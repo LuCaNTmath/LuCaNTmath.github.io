@@ -1,10 +1,10 @@
 ---
-title: LuCaNT Submissions
+title: LuCaNT Papers
 layout: default
-permalink: /submissions/
+permalink: /papers/
 ---
 
-<p>The proceedings of the first conference on LMFDB, Computation, and Number Theory (LuCaNT) will be published in an open access volume of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>.  Below is a list of draft versions of provisionally accepted papers.  Minor post-conference revisions are permitted and all papers are subject to review before a final decision is made.
+<p>The proceedings of the first conference on LMFDB, Computation, and Number Theory (LuCaNT) will be published in an open access volume of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>.  Below is a list of draft versions of provisionally accepted papers.  Minor post-conference revisions are permitted.  All papers are subject to review before a final decision is made.</p>
 
 - <a href="https://lucant.org/papers/230122-Kieffer.pdf"><i>A database of basic numerical invariants of Hilbert modular surfaces</i></a>, Eran Assaf, Angelica Babei, Ben Breen, Edgar Costa, Juanita Duque-Rosero, Aleksander Horawa,  Jean Kieffer, Avinash Kulkarni, Grant Molnar, Sam Schiavone, John Voight.
 - <a href="https://lucant.org/papers/230122-Assaf.pdf"><i>A database of paramodular forms from quinary orthogonal modular forms</i></a>, Eran Assaf, Watson Ladd, Gustavo Rama, Gonzalo Tornaría, John Voight.
