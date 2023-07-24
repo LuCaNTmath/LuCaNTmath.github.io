@@ -9,7 +9,8 @@ permalink: /papers/
 - <a href="https://lucant.org/papers/230122-Kieffer.pdf"><i>A database of basic numerical invariants of Hilbert modular surfaces</i></a>, Eran Assaf, Angelica Babei, Ben Breen, Edgar Costa, Juanita Duque-Rosero, Aleksander Horawa,  Jean Kieffer, Avinash Kulkarni, Grant Molnar, Sam Schiavone, John Voight.
 - <a href="https://lucant.org/papers/230122-Assaf.pdf"><i>A database of paramodular forms from quinary orthogonal modular forms</i></a>, Eran Assaf, Watson Ladd, Gustavo Rama, Gonzalo Tornaría, John Voight.
 - <a href="https://lucant.org/papers/230122-Bagshaw.pdf"><i>Improved methods for finding imaginary quadratic fields with high n-rank</i></a>, Christian Bagshaw, Renate Scheidler, Michael J. Jacobson, Nickolas Rollick.
-- <a href="https://lucant.org/papers/230110-Banwait.pdf"><i>Serre curves relative to obstructions modulo 2</i></a>,   Barinder S. Banwait, Armand Brumer, Hyun Jong Kim, Zev Klagsbrun, Jacob Mayle, Padmavathi Srinivasan, Isabel Vogt.
+- <a href="https://lucant.org/papers/230110-Banwait.pdf"><i>Computing nonsurjective primes associated to Galois
+representations of genus 2 curves</i></a>,   Barinder S. Banwait, Armand Brumer, Hyun Jong Kim, Zev Klagsbrun, Jacob Mayle, Padmavathi Srinivasan, Isabel Vogt.
 - <a href="https://lucant.org/papers/230123-Booker.pdf"><i>Unconditional computation of the class groups of real quadratic fields</i></a>, Ce Bian, Andrew R. Booker, Austin Docherty, Michael J. Jacobson, Andrei Seymour-Howell.
 - <a href="https://lucant.org/papers/230105-Padurariu.pdf"><i>Rational points on rank 2 genus 2 bielliptic curves in the LMFDB</i></a>, Francesca Bianchi,  Oana Padurariu.
 - <a href="https://lucant.org/papers/230121-Chidambaram.pdf"><i>Computing isogeny classes of typical principally polarized abelian surfaces over the rationals</i></a>, Raymond van Bommel,  Shiva Chidambaram, Edgar Costa, Jean Kieffer.
