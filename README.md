@@ -1,4 +1,4 @@
-<p><b>Save the date</b>: LuCaNT 2025 will take place July 7-11 at ICERM.</p>
+<p><b>Save the date</b>: LuCaNT 2025 will take place <b>July 7-11, 2025</b> at ICERM.</p>
 
 <p>The <a href="https://icerm.brown.edu/events/sc-23-lucant/">first LuCaNT conference</a> took at ICERM in Providence, Rhode Island, July 10-14, 2023.  You can find the list of <a href="https://lucant.org/papers/">accepted papers</a> here.</p>
 
