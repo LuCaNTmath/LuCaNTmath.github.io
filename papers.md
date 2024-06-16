@@ -4,7 +4,9 @@ layout: default
 permalink: /papers/
 ---
 
-<p>The proceedings of the first conference on LMFDB, Computation, and Number Theory (LuCaNT) will be published in an open access volume of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>.  Below is a list of draft versions of provisionally accepted papers.  Minor post-conference revisions are permitted.  All papers are subject to review before a final decision is made.</p>
+<p>The proceedings of the first conference on LMFDB, Computation, and Number Theory (LuCaNT) was published in an <A HREF="https://bookstore.ams.org/CONM/796">open access volume</A> of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>.  
+  
+<!--Below is a list of draft versions of provisionally accepted papers.  Minor post-conference revisions are permitted.  All papers are subject to review before a final decision is made.</p>
 
 - <a href="https://lucant.org/papers/230122-Kieffer.pdf"><i>A database of basic numerical invariants of Hilbert modular surfaces</i></a>, Eran Assaf, Angelica Babei, Ben Breen, Edgar Costa, Juanita Duque-Rosero, Aleksander Horawa,  Jean Kieffer, Avinash Kulkarni, Grant Molnar, Sam Schiavone, John Voight.
 - <a href="https://lucant.org/papers/230122-Assaf.pdf"><i>A database of paramodular forms from quinary orthogonal modular forms</i></a>, Eran Assaf, Watson Ladd, Gustavo Rama, Gonzalo Tornaría, John Voight.
@@ -20,5 +22,6 @@ representations of genus 2 curves</i></a>,   Barinder S. Banwait, Armand Brumer,
 - <a href="https://lucant.org/papers/230123-Farmer.pdf"><i>The landscape of L-functions: degree 3 and conductor 1</i></a>, David W. Farmer, Sally Koutsoliotas, Stefan Lemurell, David P. Roberts.
 - <a href="https://lucant.org/papers/221018-Kedlaya.pdf"><i>The relative class number one problem for function fields, III</i></a>, Kiran S. Kedlaya.
 - <a href="https://lucant.org/papers/221111-Mayle.pdf"><i>Serre curves relative to obstructions modulo 2</i></a>, Jacob Mayle, Rakvi.
+-->
 
 <p>Queries should be directed to <a href="mailto:editors@lucant.org">editors@lucant.org</a>.</p>
