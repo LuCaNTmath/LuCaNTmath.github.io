@@ -8,8 +8,8 @@ Managing Editors
 --
 - [John Jones](https://hobbes.la.asu.edu/), Arizona State University, USA
 - [Andrew Sutherland](https://math.mit.edu/~drew/), MIT, USA
-- [John Voight](https://math.dartmouth.edu/~jvoight/), Dartmouth College, USA
 - [Jennifer Paulhus](https://paulhus.math.grinnell.edu/), Grinnell College, USA
+- [John Voight](https://math.dartmouth.edu/~jvoight/), Dartmouth College, USA
 
 Associate Editors
 --
