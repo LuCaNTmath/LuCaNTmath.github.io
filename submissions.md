@@ -1,3 +1,9 @@
+---
+title: LuCaNT Submissions
+layout: default
+permalink: /submissions/
+---
+
 <p>The proceedings of the second conference on LMFDB, Computation, and Number Theory (LuCaNT 2025) will be published in a volume of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>. We encourage anyone with research related to mathematical databases or computation to submit a paper.</p>
 
 <p>The field of mathematical databases has emerged as an important area of research at the intersection of computer science and mathematics.  It seeks to address questions that arise when organizing, storing, and providing access to mathematical knowledge in a structured manner.  These databases are intended to be easily searchable and navigable, providing researchers, educators, and students with a convenient way to access mathematical content.  There are many challenges in developing and maintaining mathematical database, ranging from data quality and integration, to standardization, search design, updating and maintenance, and usability.  In addition, many algorithmic and theoretical questions emerge naturally when considering systematic computations that must be done on a large scale.</p>
@@ -8,4 +14,4 @@
 
 <p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at LuCaNT 2025, which will take place at ICERM, July 7-11, 2025.</p>
 
-<p>The deadline for submissions will be in January 2025, to be announced.</p>
+<p>The deadline for submissions will be in January 2025 (exact date to appear).</p>
