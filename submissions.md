@@ -12,6 +12,6 @@ permalink: /submissions/
 
 <p>Papers will go through a peer review process. In addition, any developed code should be placed in a publicly available repository such as GitHub to be available to the reviewers (to help improve the quality, accessibility, re-usability, and reproducibility of the code and data).  Code will also be reviewed by the MaRDI group using their template (link to appear).  The outcome of code review will be included as part of referees' feedback and ultimately inform the editorial board's decision to accept or reject the paper.</p>
 
-<p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at LuCaNT 2025, which will take place at ICERM, July 7-11, 2025.</p>
+<p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at <a href="https://icerm.brown.edu/topical_workshops/tw-25-lucant/">LuCaNT 2025</a>, which will take place at ICERM, July 7-11, 2025.</p>
 
 <p>The deadline for submissions will be in January 2025 (exact date to appear).</p>
