@@ -1,15 +1,11 @@
----
-title: LuCaNT Submissions
-layout: default
-permalink: /submissions/
----
+<p>The proceedings of the second conference on LMFDB, Computation, and Number Theory (LuCaNT 2025) will be published in a volume of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>. We encourage anyone with research related to mathematical databases or computation to submit a paper.</p>
 
-<p>The proceedings of the first conference on LMFDB, Computation, and Number Theory (LuCaNT) will be published in an open access volume of <a href="https://www.ams.org/books/conm/">Contemporary Mathematics</a>. We encourage anyone with research related to mathematical databases or computation to submit a paper. The suggested length for papers is no more than 20-25 pages, excluding references. However, longer papers will also be considered.</p>
+<p>The field of mathematical databases has emerged as an important area of research at the intersection of computer science and mathematics.  It seeks to address questions that arise when organizing, storing, and providing access to mathematical knowledge in a structured manner.  These databases are intended to be easily searchable and navigable, providing researchers, educators, and students with a convenient way to access mathematical content.  There are many challenges in developing and maintaining mathematical database, ranging from data quality and integration, to standardization, search design, updating and maintenance, and usability.  In addition, many algorithmic and theoretical questions emerge naturally when considering systematic computations that must be done on a large scale.</p>
 
-<p>Papers will go through a peer review process. In addition, any developed code should be placed in a publicly available repository such as GitHub to be available to the reviewers (to help improve the quality, accessibility, re-usability, and reproducibility of the code and data).</p>
+<p>Papers should be at most 25 pages, excluding references, when formatted using the amsart document class with default margins, font size (10pt), and line spacing. However, initial PDF submission may be in any format (e.g., 19 pages of amsart with 12pt font and fullpage is about the same length).  Papers that are 4 pages or less, excluding references, will be considered for a special section on "short communications" that provide concise reports on the above themes.  Examples might include: a brief presentation of a novel proof of a known result, an announcement of a significant computation with a few details, an outline of a new algorithm with a link to the implementation, or an elaboration upon some aspect of databasing.  Please note, however, that preliminary papers (to be published elsewhere in final form) or summaries of results previously published or soon to appear are not acceptable.</p>
 
-<p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at the first <a href="https://icerm.brown.edu/events/sc-23-lucant/">LuCaNT conference</a>, which will take place at ICERM, July 10-14, 2023.</p>
+<p>Papers will go through a peer review process. In addition, any developed code should be placed in a publicly available repository such as GitHub to be available to the reviewers (to help improve the quality, accessibility, re-usability, and reproducibility of the code and data).  Code will also be reviewed by the MaRDI group using their template (link to appear).  The outcome of code review will be included as part of referees' feedback and ultimately inform the editorial board's decision to accept or reject the paper.</p>
 
-<p><b>We are no longer accepting submissions</b> (the deadline was January 22, 2023). We thank all the authors who submitted papers that we now look forward to reading!  We anticipate final decisions by May 2023.</p>
+<p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at LuCaNT 2025, which will take place at ICERM, July 7-11, 2025.</p>
 
-<p>Queries should be directed to <a href="mailto:editors@lucant.org">editors@lucant.org</a>.</p>
+<p>The deadline for submissions will be in January 2025, to be announced.</p>
