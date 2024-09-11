@@ -1,5 +1,5 @@
 ---
-title: LuCaNT Submissions
+title: LuCaNT 2025 Call for Papers
 layout: default
 permalink: /submissions/
 ---
