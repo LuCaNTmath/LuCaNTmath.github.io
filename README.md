@@ -1,4 +1,4 @@
-<p><b><a href="https://icerm.brown.edu/topical_workshops/tw-25-lucant/">LuCaNT 2025</a> will take place <b>July 7-11, 2025</b> at ICERM, please see the <a href="https://lucant.org/submissions/">call for papers</a>.</p>
+<p><a href="https://icerm.brown.edu/topical_workshops/tw-25-lucant/">LuCaNT 2025</a> will take place <b>July 7-11, 2025</b> at ICERM.   Please see the <a href="https://lucant.org/submissions/">call for papers</a>.</p>
 
 <p>The <a href="https://icerm.brown.edu/events/sc-23-lucant/">first LuCaNT conference</a> took place at ICERM in Providence, Rhode Island, July 10-14, 2023.  A proceedings volume was published, see the <a href="https://lucant.org/papers/">accepted papers</a>.</p>
 
