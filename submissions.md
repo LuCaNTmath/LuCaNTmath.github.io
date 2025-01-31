@@ -14,4 +14,4 @@ permalink: /submissions/
 
 <p>It is not required that an accepted paper be presented at the conference but from among the accepted papers a select list of speakers will be invited to give talks at <a href="https://icerm.brown.edu/topical_workshops/tw-25-lucant/">LuCaNT 2025</a>, which will take place at ICERM, July 7-11, 2025.</p>
 
-<p>The deadline for submissions is <s>January 24</s> <b>January 31, 2025</b>.  Submit your paper using <a href="https://ef.msp.org/submit_new.php?j=lucant">this link</a>.</p>
+<p>The deadline for submissions is <s>January 24</s> <b>January 31, 2025</b> by <a href="https://www.timeanddate.com/time/zones/aoe">midnight AoE</a> (UTC-12).  Submit your paper using <a href="https://ef.msp.org/submit_new.php?j=lucant">this link</a>.</p>
