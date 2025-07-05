@@ -22,8 +22,8 @@ permalink: /papers/2025/
 - <a href="https://lucant.org/papers/2025/250130-Roberts.pdf"><i>Families of p-adic fields</i></a>, Jordi Guàrdia i Rúbies, John W. Jones, Kevin Keating, Sebastian Pauli,  David P. Roberts, David Roe.
 - <a href="https://lucant.org/papers/2025/250131-Gundlach.pdf"><i>Sampling cubic rings</i></a>, Fabian Gundlach.
 - <a href="https://lucant.org/papers/2025/250127-Hamakiotes.pdf"><i>Genus formulas for families of modular curves</i></a>, Asimina Hamakiotes, Jun Bo Lau.
-- <a href="https://lucant.org/papers/2025/250201-Scheidler.pdf"><i>The spine of a supersingular ℓ-Isogeny Graph</i></a>, Taha Hedayat, Sarah Arpin,  Renate Scheidler.
-- <a href="https://lucant.org/papers/2025/250120-Kedlaya.pdf"><i>A census of genus 6 curves over &Fopf;<sub>2</sub></i></a>, Yongyuan Huang,  Kiran S. Kedlaya, Jun Bo Lau.
+- <a href="https://lucant.org/papers/2025/250201-Scheidler.pdf"><i>The spine of a supersingular &ell;-Isogeny Graph</i></a>, Taha Hedayat, Sarah Arpin,  Renate Scheidler.
+- <a href="https://lucant.org/papers/2025/250120-Kedlaya.pdf"><i>A census of genus 6 curves over &#120125;<sub>2</sub></i></a>, Yongyuan Huang,  Kiran S. Kedlaya, Jun Bo Lau.
 - <a href="https://lucant.org/papers/2025/250123-Logan.pdf"><i>The Kodaira dimension of Hilbert modular threefolds</i></a>, Adam Logan.
 - <a href="https://lucant.org/papers/2025/250131-LowryDuda.pdf"><i>Computing a database of rigorous Maass forms</i></a>, David Lowry-Duda.
 - <a href="https://lucant.org/papers/2025/250131-Sutherland.pdf"><i>Completely decomposable modular Jacobians</i></a>, Jennifer Paulhus, Andrew V. Sutherland.
