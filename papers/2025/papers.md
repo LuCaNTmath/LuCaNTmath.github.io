@@ -16,7 +16,7 @@ permalink: /papers/2025/
 - <a href="https://lucant.org/papers/2025/250130-Costa.pdf"><i>Explicit modularity of K3 surfaces with complex multiplication of large degree</i></a>, Edgar Costa, Andreas-Stephan Elsenhans, Jörg Jahnel, John Voight.
 - <a href="https://lucant.org/papers/2025/250130-Costello.pdf"><i>On pairs of primes with small order reciprocity</i></a>, Craig Costello, Gaurish Korpal.
 - <a href="https://lucant.org/papers/2025/250124-Farmer.pdf"><i>Fine structure in some landscapes of L-functions</i></a>,  David W. Farmer, Sally Koutsoliotas, Stefan Lemurell, David P. Roberts.
-- <a href="https://lucant.org/papers/2025/250201-Elkies.pdf"><i>A Shimura-Belyi map of degree 33, and number fields with Galois group 33T55 = &Sigma;L<sub>2</sub>(&Fopf;<sub>32</sub>)</i></a>, Noam D. Elkies.
+- <a href="https://lucant.org/papers/2025/250201-Elkies.pdf"><i>A Shimura-Belyi map of degree 33, and number fields with Galois group 33T55 = &Sigma;L<sub>2</sub>(&#120125;<sub>32</sub>)</i></a>, Noam D. Elkies.
 - <a href="https://lucant.org/papers/2025/250131-Finnerty.pdf"><i>Quadratic Chabauty experiments on genus 2 bielliptic modular curves in the LMFDB</i></a>, Kate Finnerty.
 - <a href="https://lucant.org/papers/2025/250129-Koutsianas.pdf"><i>Local-global principle for 11-isogenies of elliptic curves is true over quadratic fields</i></a>, Stevan Gajović, Jeroen Hanselman, Angelos Koutsianas.
 - <a href="https://lucant.org/papers/2025/250130-Roberts.pdf"><i>Families of p-adic fields</i></a>, Jordi Guàrdia i Rúbies, John W. Jones, Kevin Keating, Sebastian Pauli,  David P. Roberts, David Roe.
