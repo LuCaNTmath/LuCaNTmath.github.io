@@ -13,9 +13,9 @@ permalink: /papers/2025/
 - <a href="https://lucant.org/papers/2025/250122-RoyManami.pdf"><i>Creating a dynamic database of finite groups</i></a>, Lewis Combes, John W. Jones, Jennifer Paulhus, David Roe, Manami Roy, Sam Schiavone.
 - <a href="https://lucant.org/papers/2025/250131-Leroux.pdf"><i>Evaluation of modular polynomials from supersingular elliptic curves</i></a>, Maria Corte-Real Santos, Jonathan Eriksen,  Antonin Leroux, Michael Meyer, Lorenz Panny.
 - <a href="https://lucant.org/papers/2025/250122-Costa.pdf"><i>Labeling abelian varieties over finite fields</i></a>, Edgar Costa, Taylor Dupuy, Stefano Marseglia, David Roe, Christelle Vincent.
-- <a href="https://lucant.org/papers/2025/250130-Costa.pdf"><i>Explicit modularity of K3 surfaces with complex multiplication of large degree
-</i></a>, Craig Costello, Gaurish Korpal.
-- <a href="https://lucant.org/papers/2025/250122-Costa.pdf"><i>On pairs of primes with small order reciprocity</i></a>, Edgar Costa, Andreas-Stephan Elsenhans, Jörg Jahnel, John Voight.
+- <a href="https://lucant.org/papers/2025/250130-Costa.pdf"><i>Explicit modularity of K3 surfaces with complex multiplication of large degree</i></a>, Edgar Costa, Andreas-Stephan Elsenhans, Jörg Jahnel, John Voight.
+- <a href="https://lucant.org/papers/2025/250122-Costa.pdf"><i>Labeling abelian varieties over finite fields</i></a>, Edgar Costa, Taylor Dupuy, Stefano Marseglia, David Roe, Christelle Vincent.
+- <a href="https://lucant.org/papers/2025/250130-Costello.pdf"><i>On pairs of primes with small order reciprocity</i></a>, Craig Costello, Gaurish Korpal.
 - <a href="https://lucant.org/papers/2025/250124-Farmer.pdf"><i>Fine structure in some landscapes of L-functions</i></a>,  David W. Farmer, Sally Koutsoliotas, Stefan Lemurell, David P. Roberts.
 - <a href="https://lucant.org/papers/2025/250201-Elkies.pdf"><i>A Shimura-Belyi map of degree 33, and number fields with Galois group 33T55 = &Sigma;L<sub>2</sub>(&Fopf;<sub>32</sub>)</i></a>, Noam D. Elkies.
 - <a href="https://lucant.org/papers/2025/250131-Finnerty.pdf"><i>Quadratic Chabauty experiments on genus 2 bielliptic modular curves in the LMFDB</i></a>, Kate Finnerty.
