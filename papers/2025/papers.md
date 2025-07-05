@@ -8,9 +8,9 @@ permalink: /papers/2025/
 
 - <a href="https://lucant.org/papers/2025/250124-vanBommel.pdf"><i>Curve equations from expansions of 1-forms at a nonrational point</i></a>,  Raymond van Bommel, Edgar Costa, Bjorn Poonen, Padmavathi Srinivasan.
 - <a href="https://lucant.org/papers/2025/250131-Orvis.pdf"><i>Experimental investigations on Lehmer's Conjecture for elliptic curves</i></a>, Sven Cats, John Clark, Charlotte Dombrowsky, Mar Curco Iranzo, Krystal Maughan, Eli Orvis.
-- <a href="https://lucant.org/papers/2025/241114-Clontz.pdf"><i>Database-Driven Mathematical Inquiry and the $\pi$-Base Model for Small Semantic Databases</i></a>,by  Steven Clontz.
+- <a href="https://lucant.org/papers/2025/241114-Clontz.pdf"><i>Database-Driven Mathematical Inquiry and the &#960;-Base Model for Small Semantic Databases</i></a>,by  Steven Clontz.
 - <a href="https://lucant.org/papers/2025/250131-Chidambaram.pdf"><i>Computing the mod-3 Galois image of a principally polarized abelian surface over the rationals</i></a>, Shiva Chidambaram.
-- <a href="https://lucant.org/papers/2025/250122-Manami.pdf"><i>Creating a dynamic database of finite groups</i></a>, Lewis Combes, John W. Jones, Jennifer Paulhus, David Roe, Manami Roy, Sam Schiavone.
+- <a href="https://lucant.org/papers/2025/250122-RoyManami.pdf"><i>Creating a dynamic database of finite groups</i></a>, Lewis Combes, John W. Jones, Jennifer Paulhus, David Roe, Manami Roy, Sam Schiavone.
 - <a href="https://lucant.org/papers/2025/250131-Leroux.pdf"><i>Evaluation of Modular Polynomials from Supersingular Elliptic Curves</i></a>, Maria Corte-Real Santos, Jonathan Eriksen,  Antonin Leroux, Michael Meyer, Lorenz Panny.
 - <a href="https://lucant.org/papers/2025/250122-Costa.pdf"><i>Labeling abelian varieties over finite fields</i></a>, Edgar Costa, Taylor Dupuy, Stefano Marseglia, David Roe, Christelle Vincent.
 - <a href="https://lucant.org/papers/2025/250130-Costa.pdf"><i>Explicit modularity of K3 surfaces with complex multiplication of large degree
