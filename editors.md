@@ -4,9 +4,10 @@ layout: default
 permalink: /editors/
 ---
 
-Managing Editors
+Organizers
 --
 - [John Jones](https://hobbes.la.asu.edu/), Arizona State University, USA
+- [Céline Maistret](https://sites.google.com/view/cmaistret/home), University of Bristol, UK
 - [Jennifer Paulhus](https://www.jenpaulhus.com/), Mount Holyoke College, USA
 - [David Roe](https://math.mit.edu/~roed/), MIT, USA
 - [Andrew Sutherland](https://math.mit.edu/~drew/), MIT, USA
@@ -22,7 +23,6 @@ Associate Editors
 - [David Farmer](https://aimath.org/about/staff/), American Institute of Mathematics, USA
 - [Kiran Kedlaya](https://kskedlaya.org/), University of California - San Diego, USA
 - [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/), University of Connecticut, USA
-- [Céline Maistret](https://sites.google.com/view/cmaistret/home), University of Bristol, UK
 - [Nicolas Mascot](https://www.maths.tcd.ie/~mascotn/), Trinity College Dublin, Ireland
 - [Pascal Molin](https://webusers.imj-prg.fr/~pascal.molin/), Université Paris Cité, France
 - [Aurel Page](https://www.normalesup.org/~page/index-en.html), INRIA / Institut de Mathématiques de Bordeaux, France
