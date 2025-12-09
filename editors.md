@@ -7,9 +7,9 @@ permalink: /editors/
 Managing Editors
 --
 - [John Jones](https://hobbes.la.asu.edu/), Arizona State University, USA
-- [Andrew Sutherland](https://math.mit.edu/~drew/), MIT, USA
 - [Jennifer Paulhus](https://www.jenpaulhus.com/), Mount Holyoke College, USA
-- [John Voight](https://math.dartmouth.edu/~jvoight/), Dartmouth College, USA
+- [David Roe](https://math.mit.edu/~roed/), MIT, USA
+- [Andrew Sutherland](https://math.mit.edu/~drew/), MIT, USA
 
 Associate Editors
 --
