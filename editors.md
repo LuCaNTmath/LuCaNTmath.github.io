@@ -21,12 +21,13 @@ Associate Editors
 - [Edgar Costa](https://math.mit.edu/~edgarc/), MIT, USA
 - [John Cremona](https://johncremona.github.io/), University of Warwick, UK
 - [David Farmer](https://aimath.org/about/staff/), American Institute of Mathematics, USA
+- [Everett Howe](https://ewhowe.com/), USA
 - [Kiran Kedlaya](https://kskedlaya.org/), University of California - San Diego, USA
 - [Álvaro Lozano-Robledo](https://alozano.clas.uconn.edu/), University of Connecticut, USA
 - [Nicolas Mascot](https://www.maths.tcd.ie/~mascotn/), Trinity College Dublin, Ireland
 - [Pascal Molin](https://webusers.imj-prg.fr/~pascal.molin/), Université Paris Cité, France
 - [Aurel Page](https://www.normalesup.org/~page/index-en.html), INRIA / Institut de Mathématiques de Bordeaux, France
 - [David Roberts](https://www.davidproberts.net/), University of Minnesota, Morris, USA
-- [David Roe](https://math.mit.edu/~roed/), MIT, USA
 - [Jeroen Sijsling](https://jrsijsling.eu/), Universität Ulm, Germany
 - [Gonzalo Tornaría](https://www.cmat.edu.uy/~tornaria/), Universidad de la República, Uruguay
+- [John Voight](https://jvoight.github.io/), University of Sydney, Australia
