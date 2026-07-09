@@ -4,7 +4,7 @@ layout: default
 permalink: /submissions/
 ---
 
-<p>The proceedings of the third conference on LMFDB, Computation, and Number Theory (LuCaNT 2027) will be published as an [arXiv](https://arxiv.org/) [overlay](https://en.wikipedia.org/wiki/Overlay_journal) in order to ensure open access. We encourage anyone with research related to mathematical databases or computational number theory to submit a paper.</p>
+<p>The proceedings of the third conference on LMFDB, Computation, and Number Theory (LuCaNT 2027) will be published as an <a href="https://arxiv.org/">arXiv</a> <a href="https://en.wikipedia.org/wiki/Overlay_journal">overlay</a> in order to ensure open access and timely availability. We encourage anyone with research related to mathematical databases or computational number theory to submit a paper.</p>
 
 <p>The field of mathematical databases has emerged as an important area of research at the intersection of computer science and mathematics.  It seeks to address questions that arise when organizing, storing, and providing access to mathematical knowledge in a structured manner.  These databases are intended to be easily searchable and navigable, providing researchers, educators, and students with a convenient way to access mathematical content.  There are many challenges in developing and maintaining mathematical database, ranging from data quality and integration, to standardization, search design, updating and maintenance, and usability.  In addition, many algorithmic and theoretical questions emerge naturally when considering systematic computations that must be done on a large scale.</p>
 
